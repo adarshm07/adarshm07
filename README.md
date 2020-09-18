@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+<!--   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif"> -->
 </p>
   
 .
@@ -12,9 +12,9 @@
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
   
-I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to learn more about Full Stack Web Development and Cyber Security. 
+a random kid you will see around, who is trying to find a space in web sphere.
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python. <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
+- 🔭 I'm currently learning the JavaScript Basics to make it strong. <!-- <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170"> -->
 - 🌱 I’m currently learning Data Science | Web development | App Development | Cyber Security
 - 👯 I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
@@ -34,7 +34,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshm07&show_icons=true&theme=highcontrast)
 
 -------
 
@@ -48,11 +48,11 @@ No Activity tracked this Week
 -----
   
   
-**What I love**
+<!-- **What I love** -->
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+<!-- | <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> |
 | :---: | :---: | :---: |
-| <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
+| <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> | -->
 
   
 **Favorites of Favorites** (Trying clicking them, there might be a suprise hidden among them.)
