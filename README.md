@@ -6,35 +6,35 @@
   
 
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=adarshm07&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming <!-- | :black_heart: K-Pop | :blue_heart: Anime -->
   
 a random kid you will see around, who is trying to find a space in web sphere.
 
 - 🔭 I'm currently learning the JavaScript Basics to make it strong. <!-- <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170"> -->
-- 🌱 I’m currently learning Data Science | Web development | App Development | Cyber Security
-- 👯 I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning Web development | Cyber Security
+<!-- - 👯 I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: "There is always time. You just have to find it."
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/adarshm07) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/adarshm07) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/adarshm07) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/adarshm07) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/adarshm07/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](adarshm954@gmail.com)
 |---|---|---|---|---|---|
 
 ----
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amchuz)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adarshm07)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshm07&show_icons=true&theme=highcontrast)
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshm07&show_icons=true&theme=highcontrast)
 
 -------
 
