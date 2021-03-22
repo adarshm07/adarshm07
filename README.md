@@ -14,8 +14,8 @@
   
 a random kid you will see around, who is trying to find a space in web sphere.
 
-- 🔭 I'm currently learning the JavaScript Basics to make it strong. <!-- <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170"> -->
-- 🌱 I’m currently learning Web development | Cyber Security
+- 🔭 I'm currently learning NodeJS & ReactJS. <!-- <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170"> -->
+- 🌱 Web Development | Cyber Security
 <!-- - 👯 I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: "There is always time. You just have to find it."
