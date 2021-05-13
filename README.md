@@ -1,22 +1,16 @@
 <p align="center">
-<!--   <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif"> -->
 </p>
-  
-.
-  
-
 
   ![](https://komarev.com/ghpvc/?username=adarshm07&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming <!-- | :black_heart: K-Pop | :blue_heart: Anime -->
+:heart: Programming
   
-a random kid you will see around, who is trying to find a space in web sphere.
+A random kid you will see around, who is trying to find a space for him in the web sphere.
 
-- 🔭 I'm currently learning NodeJS & ReactJS. <!-- <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170"> -->
+- 🔭 I'm currently learning NodeJS & ReactJS.
 - 🌱 Web Development | Cyber Security
-<!-- - 👯 I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: "There is always time. You just have to find it."
 - 📫 How to reach me:
